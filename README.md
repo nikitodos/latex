@@ -1,4 +1,4 @@
-# $\mathrm{\LaTeX}$ course
+# $\mathrm{\LaTeX}$
 
 This course aims to introduce the potential and the usage of LaTeX markup language, with special emphasis on Scientific and Engineering literature.
 
